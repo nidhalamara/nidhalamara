@@ -1,7 +1,7 @@
 <h1 align="center">Hi</h1>
 <h3 align="center">Data science and software engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nidhalamara" alt="nidhalamara" /></a> </p>
+<p align="left"> <a href="https://github.com/nidhalamara"><img src="https://github-profile-trophy.vercel.app/?username=nidhalamara" alt="nidhalamara" /></a> </p>
 
  Feel free to reach me via **amaraanidhall@gmail.com**
 
